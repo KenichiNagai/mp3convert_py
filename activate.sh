@@ -1,0 +1,1 @@
+.\venv_conv\Scripts\activate
